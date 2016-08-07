@@ -12,7 +12,7 @@ This is a free adaptation of two (very) clever analyses made by others:
 
 * [Analyzing networks of characters in 'Love Actually' by David Robinson](http://varianceexplained.org/r/love-actually-network/) in which R was used to analyse the links between the characters of the movie Love Actually.
 
-The aim here is to try and reproduce Evelina's analysis using R only, using David's contribution plus several tweaks I found here and there on the internet.
+The aim here is to try and reproduce Evelina's analysis using R only, using David's contribution plus several tweaks I found here and there on the internet. The code comes with mistakes probably. The R code and data are available on my [GitHub page](https://github.com/oliviergimenez)
 
 # Read and format data
 
